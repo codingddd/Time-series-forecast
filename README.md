@@ -1,4 +1,6 @@
-LSTM：python run lstm.py
+## 🚀QuickStart
+
+-LSTM：python run lstm.py
 
 Transformer：python run transformer.py
 
